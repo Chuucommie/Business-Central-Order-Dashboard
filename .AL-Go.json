@@ -1,0 +1,37 @@
+{
+    "id": "8f2e7a1b-4c5d-6e8f-9a0b-1c2d3e4f5a6b",
+    "name": "BCOrderDashboard",
+    "publisher": "IgelDev",
+    "version": "1.0.0.0",
+    "brief": "Order Dashboard for Microsoft Dynamics 365 Business Central",
+    "description": "A modern dashboard extension for Business Central that displays orders with color-coded status filtering and real-time insights.",
+    "platform": "21.0.0.0",
+    "application": "21.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50150
+        }
+    ],
+    "features": [
+        "Order Dashboard with status filtering",
+        "Color-coded order status display",
+        "Real-time order statistics",
+        "Export functionality",
+        "Responsive design"
+    ],
+    "contextSensitiveHelpUrl": "https://github.com/Chuucommie/Business-Central-Order-Dashboard",
+    "showMyCode": true,
+    "runtime": "10.0",
+    "dependencies": [],
+    "screenshots": [],
+    "logo": "",
+    "url": "https://github.com/Chuucommie/Business-Central-Order-Dashboard",
+    "permissions": [
+        {
+            "id": "permission-1",
+            "description": "Read access to Sales Orders"
+        }
+    ],
+    "target": "Cloud"
+}
